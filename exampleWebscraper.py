@@ -224,7 +224,7 @@ class WebScraper:
         
 if __name__=='__main__':
     # Local path to webdriver
-    webdriverPath = r'C:\Users\savan\Desktop\Coding and Software\Stemaway Coding Stuff\geckodriver'
+    webdriverPath = r'.\geckodriver'
     
     # Forum to scrape URL    
     BASE_URL = 'https://forum.flowster.app'
