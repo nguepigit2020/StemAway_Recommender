@@ -20,6 +20,10 @@ runScraper -> getLinks
 getLinks -> scroll -> then returns links
 
 """
+"""
+TODO: Ensure leading posts are imported correctly
+TODO: Add functions to collect other features (Replies, Views, Number of replies, tags)
+"""
 
 class webScrape:
 
